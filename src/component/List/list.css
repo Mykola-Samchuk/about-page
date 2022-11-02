@@ -1,0 +1,32 @@
+.list_wrapp-item {
+  margin-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list_wrapp-item li {
+  margin-right: 8px;
+  font-size: 16px;
+  color: var(--primary-text-color);
+}
+
+.list_wrapp-item li::after {
+  content: ",";
+}
+
+.list_wrapp-item li:last-child::after {
+  content: ".";
+}
+
+.list_wrapp-item li:last-child {
+  margin-right: 0;
+}
+
+.list_wrapp-item li::marker {
+  color: #004eaf;
+}
+
+.list__text {
+  font-size: 18px;
+  color: var(--primary-text-color);
+}

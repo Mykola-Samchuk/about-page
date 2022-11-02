@@ -1,0 +1,10 @@
+{
+  "firstName": "Mykola",
+  "lastName": "Samchuk",
+  "hobbies": ["Cycling", "Ski", "Audiobooks"],
+  "lastWorkingExperience": ["Sales manager", "Head of sales team"],
+  "futureWork": "Trainee / Junior Front-end Developer",
+  "techSkils": ["html", "css / scss", "JS", "React", "jQuery", "Git"],
+  "softSkill": ["Purposeful", "Responsible", "Teamwork"],
+  "shortInfo": "Hello. I am a responsible and persistent person. In the process of learning, I strive to successfully use the acquired knowledge and skills at work."
+}
